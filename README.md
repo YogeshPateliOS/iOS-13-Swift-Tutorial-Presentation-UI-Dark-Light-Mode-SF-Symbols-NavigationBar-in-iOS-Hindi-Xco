@@ -11,9 +11,7 @@ iOS(Video) :- In this video I will teach You All About iOS 13 For Beginners in S
 
 ### iOS 13 Presentation Style :- UIAdaptivePresentationControllerDelegate
 
-<a href="https://gifyu.com/image/kcyq"><img src="https://s3.gifyu.com/images/SimplePresentation.gif" alt="SimplePresentation.gif" border="0"></a>
-
-<a href="https://gifyu.com/image/kcyE"><img src="https://s3.gifyu.com/images/PrevertDismiss.gif" alt="PrevertDismiss.gif" border="0"></a>
+<a href="https://gifyu.com/image/kcyq"><img src="https://s3.gifyu.com/images/SimplePresentation.gif" alt="SimplePresentation.gif" border="0" width="200px" hspace="20"></a><a href="https://gifyu.com/image/kcyE"><img src="https://s3.gifyu.com/images/PrevertDismiss.gif" alt="PrevertDismiss.gif" border="0" width="200px"></a>
 
 # Model FullScreen Presentation
 <a href="https://gifyu.com/image/kcy9"><img src="https://s3.gifyu.com/images/FullScreen_Presentation.gif" alt="FullScreen_Presentation.gif" border="0"></a>

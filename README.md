@@ -10,7 +10,6 @@ iOS(Video) :- In this video I will teach You All About iOS 13 For Beginners in S
 * SFSymbol Download Link :-  https://developer.apple.com/design/resources/
 
 ### iOS 13 Presentation Style :- UIAdaptivePresentationControllerDelegate
-
 <a href="https://gifyu.com/image/kcyq"><img src="https://s3.gifyu.com/images/SimplePresentation.gif" alt="SimplePresentation.gif" border="0" width="200px" hspace="20"></a><a href="https://gifyu.com/image/kcyE"><img src="https://s3.gifyu.com/images/PrevertDismiss.gif" alt="PrevertDismiss.gif" border="0" width="200px"></a>
 
 # Model FullScreen Presentation
@@ -27,7 +26,7 @@ iOS(Video) :- In this video I will teach You All About iOS 13 For Beginners in S
 <a href="https://gifyu.com/image/kcyv"><img src="https://s3.gifyu.com/images/UINavigationBarAppeareance.gif" alt="UINavigationBarAppeareance.gif" border="0" width="200px"></a>
 
 # Light / Dark Mode
-<a href="https://gifyu.com/image/kcGl"><img src="https://s3.gifyu.com/images/Light_Dark_Mode6ed06ca8b0e6852f.gif" alt="Light_Dark_Mode6ed06ca8b0e6852f.gif" border="0" /></a>
+<img src="https://s3.gifyu.com/images/Dark_Mode.png" alt="Dark_Mode.png" border="0" width="200px" hSpace="20px"><img src="https://s3.gifyu.com/images/Light_Mode.png" alt="Light_Mode.png" border="0" width="200px">
 
 
 Hello Guys, IF you are here for learning new things in iOS then this is the right place For You.. I am uploading videos on youtube for both Languages Objective-C And Swift in Hindi.  I Have already Uploaded 180+ Videos On Youtube, Please Go to my channel, there You can find URL and more interesting topics that I mentioned below :-  - All the Basic Stuff like ( Array, String, Dictionary etc..)

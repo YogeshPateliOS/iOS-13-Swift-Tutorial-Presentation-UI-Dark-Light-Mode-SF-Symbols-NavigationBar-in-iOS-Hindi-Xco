@@ -27,7 +27,8 @@ iOS(Video) :- In this video I will teach You All About iOS 13 For Beginners in S
 <a href="https://gifyu.com/image/kcyv"><img src="https://s3.gifyu.com/images/UINavigationBarAppeareance.gif" alt="UINavigationBarAppeareance.gif" border="0" width="200px"></a>
 
 # Light / Dark Mode
-<a href="https://gifyu.com/image/kcym"><img src="https://s3.gifyu.com/images/LightDark-Mode.gif" alt="LightDark-Mode.gif" border="0" width="200px"></a>
+<a href="https://gifyu.com/image/kcGl"><img src="https://s3.gifyu.com/images/Light_Dark_Mode6ed06ca8b0e6852f.gif" alt="Light_Dark_Mode6ed06ca8b0e6852f.gif" border="0" /></a>
+
 
 Hello Guys, IF you are here for learning new things in iOS then this is the right place For You.. I am uploading videos on youtube for both Languages Objective-C And Swift in Hindi.  I Have already Uploaded 180+ Videos On Youtube, Please Go to my channel, there You can find URL and more interesting topics that I mentioned below :-  - All the Basic Stuff like ( Array, String, Dictionary etc..)
 
